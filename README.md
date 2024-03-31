@@ -1,0 +1,7 @@
+Projeto backend Java para curso de Análise e Desenvolvimento de Sistema da FIAP, cujo objetivo é:
+
+1.	Avaliação da porcentagem de desperdício de recursos por linha de produção: Ao monitorar o uso de recursos em diferentes etapas do ciclo de vida dos produtos, o programa pode identificar quais linhas de produto estão gerando maiores perdas. Com esses dados, é possível priorizar ações para reduzir o desperdício, seja buscando alternativas de materiais mais sustentáveis ou desenvolvendo estratégias de aumento da eficiência produtiva.
+
+2.	Análise do impacto de fornecedores na sustentabilidade: Um programa de análise de dados pode coletar informações sobre os fornecedores e analisar seus impactos ambientais. Ele pode identificar quais fornecedores estão alinhados com práticas sustentáveis e quais podem ser responsáveis por questões ambientais negativas, como a degradação de ecossistemas ou o uso excessivo de recursos naturais. Esses insights podem ajudar na tomada de decisões em relação aos fornecedores, permitindo a seleção de parceiros mais sustentáveis e a implementação de melhorias na cadeia de suprimentos.
+
+3.	Análise de eficiência energética e consumo de água em instalações: O programa de análise de dados pode coletar informações sobre o consumo de energia e água em diferentes instalações da empresa. Com base nesses dados, ele pode identificar quais instalações têm um consumo mais elevado e identificar oportunidades de melhoria em termos de eficiência energética/hídrica.
